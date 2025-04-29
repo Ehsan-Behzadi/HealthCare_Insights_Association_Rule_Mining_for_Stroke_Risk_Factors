@@ -6,18 +6,19 @@ This project explores health and demographic factors accociated to strokes, aimi
 ---
 
 ## Current Status
-In this latest update, the **Preprocessing Phase** was performed. 
+In this current update, the **Association Rule Mining Phase** was completed. 
 - ✅ EDA Phase Completed   
 - ✅ Preprocessing Phase Completed  
-- 🚀 Ready for Association Rule Mining
+- ✅ Association Rule Mining Completed
+- 🚀 Ready for Interpretation and Visualization
 
 ---
 
 ## Project Phases
 
-- [Phase 1 - Exploratory Data Analysis (EDA)](./Phase_1_EDA/README.md)
+- [Phase 1 - Exploratory Data Analysis (EDA)](./Phaze_1_EDA/README.md)
 - [Phase 2 - Data Preprocessing](./Phaze_2_Preprocessing/README.md)
-- Phase 3 - Association Rule Mining (Coming Soon)
+- [Phase 3 - Association Rule Mining](./Phaze_3_Association_Rule_Mining/README.md)
 - Phase 4 - Interpretation and Visualization (Coming Soon)
 
 ---
